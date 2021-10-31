@@ -5,7 +5,7 @@ date:   2021-10-31 16:45:23 +0100
 categories: jekyll update
 ---
 
-## What on Earth?
+## LGBTQ+ 
 Quick link to the main website page of the Museum of London: Click Here
 <a href="https://queerbritain.org.uk">Click Here</a>
 
@@ -23,7 +23,7 @@ This museum is established due to the historical background of queer people's st
 
 The objects come from a wide range of sources in partnership with the Bank of English, DIVA magazine, business companies, research institutions, musuems, individuals etc.
 	• For example, the Turing £50 will be released by the bank of England in memory of Alan Turing. The new £50 note features an image of the code-breaking gay scientist, Alan Turing. The discussion was led by Dr. Dominic Galliano, Head of Public Engagement from UCL, and features Sarah John, the Chief Cashier of the Bank of England; Josh Little, the lawyer who led the Allen & Overy team advising Stonewall on 2017's gross indecency 'Turing Law' pardons and the Quantum Scientist, Dr. Alex Moylett. The Bank of England made a special announcement during the event.
-    
+
 
 ### Page Style 
 
